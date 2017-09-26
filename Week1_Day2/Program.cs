@@ -40,7 +40,7 @@ namespace Week1_Day2
             Console.WriteLine(partialNum);
             Console.WriteLine(someNumber);
 
-            //operators
+            // arithmatic operators
 
             // + adds two operands
             // - subtracts second operand first
@@ -50,6 +50,8 @@ namespace Week1_Day2
             // % Modulus checks the remainder devides and checks remainder
             //++ increments operator by one and is used for ints 
             //-- decrements value by one
+
+            //relational operators
             // == checks if the values of gtwo operands are equal and if they are returns bool true
             //!= does the opposite of == checking if two operands are equal or not equal and if not returns bool true
 
@@ -57,6 +59,16 @@ namespace Week1_Day2
             int danielAge = 32;
             Console.WriteLine(jeryydAge == danielAge);
 
+           //   > < 
+           //  >=  <=
+           //  logical operators
+           // && we call AND operator if both the operands are non zero then the condition becomes true
+
+            //  ||  we call OR operator if either of the operands is non zero then condition becomes true
+
+            //  |  we call NOT operator  this is used to reverse the logical state of the opperand
+            //  
+        
 
 
 
